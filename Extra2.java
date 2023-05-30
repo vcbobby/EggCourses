@@ -37,6 +37,6 @@ public class Extra2 {
         a = d;
         d = aux;
         
-        System.out.println("b: " + b + " c: " + c + " a: " + a + " d:" + d + " " + aux);
+        System.out.println("b: " + b + " c: " + c + " a: " + a + " d:" + d);
     }
 }
